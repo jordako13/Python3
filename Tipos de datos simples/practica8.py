@@ -1,0 +1,5 @@
+n= int(input("Dime el primer numero entero: "))
+m= int(input("Dime el segundo numero entero: "))
+r= int(n%m)
+c= int(n//m)
+print(n,"entre", m, "da un cociente", c, "y un resto", r)
