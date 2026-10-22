@@ -6,3 +6,4 @@ while (num1 <= 10):
     if (num2==11):
         num2=1
         num1+=1
+        print ("--------------")
